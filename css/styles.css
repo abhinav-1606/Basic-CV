@@ -1,6 +1,7 @@
 body{
     background-color: powderblue;
 }
+
 hr{
     background-color: none;
     border-style: none;
@@ -9,12 +10,15 @@ hr{
     border-width: 5px;
     width: 100%;
 }
+
 img{
     height: 300px;
 }
+
 h1{
     color: green;
 }
+
 h3{
     color: green;
 }
